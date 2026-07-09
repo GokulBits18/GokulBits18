@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/GokulBits18">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Gokul" alt="Hello! I&#39;m Gokul" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00BCD4&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Gokul" alt="Hello! I&#39;m Gokul" />
   </a>
 </p>
 
@@ -8,12 +8,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=625&height=44&lines=Passionate%20about%20%20AI%2FML;Turning%20coffee%20into%20clean%2C%20tested%20code." alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+###  About Me
 
 Building AI-powered applications with Python, Machine Learning, Computer Vision, NLP, FastAPI &amp; Streamlit.
 
-🌱 &nbsp;I'm currently learning **AI/ML**  
-💬 &nbsp;Ask me about **AI**
+ &nbsp;I'm currently learning **AI/ML**  
+ &nbsp;Ask me about **AI**
 
 ### 🛠️ Tech Stack
 
@@ -39,7 +39,7 @@ Building AI-powered applications with Python, Machine Learning, Computer Vision,
   <a href="https://linkedin.com/in/gokul-mp-" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=GokulBits18&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
@@ -52,7 +52,7 @@ Building AI-powered applications with Python, Machine Learning, Computer Vision,
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GokulBits18&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-### 💭 Dev Quote
+###  Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
