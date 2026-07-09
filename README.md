@@ -48,7 +48,7 @@ Building AI-powered applications with Python, Machine Learning, Computer Vision,
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GokulBits18&bg_color=00000000&color=000000&line=FF0000&point=00FFFF&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GokulBits18&bg_color=00000000&color=000000&line=0000FF&point=0000FF&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ### Dev Quote
