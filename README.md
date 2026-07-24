@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/GokulBits18">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00FFFF&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Gokul" alt="Hello! I&#39;m Gokul" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=red&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Gokul" alt="Hello! I&#39;m Gokul" />
   </a>
 </p>
 
